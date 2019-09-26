@@ -1,0 +1,55 @@
+.container {
+  width: 35%;
+  margin-top: 10%;
+  background-image: url(https://hartzellprop.com/wp-content/uploads/GettyImages-879173948-1200x800.jpg);
+  background-size: 120%;
+}
+
+.container2{
+  width: 69px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-left: 0%;
+}
+
+.btn {
+
+  width: 90%;
+
+}
+.form-group {
+
+  width: 80%;
+  height: 80%;
+  
+}
+
+
+h1 {
+  font-family: Oleo script;
+  text-align: center;
+  color:white;
+  padding-bottom: px;
+  padding-top: 10px;
+
+}
+p {
+color: white;
+  margin-right: 5px;
+  margin-top: 1px;
+  text-align: right;
+
+}
+
+
+
+.fonte {
+  color: white;
+
+}
+
+.container3{
+  
+  margin-left: 56%;
+
+}
